@@ -1,0 +1,15 @@
+{
+   "margin-top": 8,
+   "margin-bottom": 8,
+   "margin-right": 20,
+   "margin-left": 20,
+   "ipc": true,
+   "custom/zeit": {
+        "mode":"hide"
+   },
+    "include": [
+        "/usr/share/sway/templates/waybar/config.jsonc"
+    ]
+
+}
+

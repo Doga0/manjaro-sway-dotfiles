@@ -1,0 +1,24 @@
+@import "/usr/share/sway/templates/waybar/style.css";
+
+* {
+	
+	border-radius: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+    padding-top: 2px;
+	padding-bottom: 2px;
+    
+}
+
+window#waybar{
+    background-color: shade(alpha(@theme_base_color, 0.8), 1.10);
+}
+
+window .modules-left #workspaces button{
+    transition: 0.5s;
+}
+
+
+label:hover {
+		background-color: white;
+}
