@@ -1,4 +1,6 @@
 # manjaro-sway-dotfiles
+![Screenshot](screenshots/image1.jpeg)
+![Screenshot](screenshots/image2.jpeg)
 ## Border and stuff
 > **Directory:**: ~/.config/sway/config.d 
 ## lf
