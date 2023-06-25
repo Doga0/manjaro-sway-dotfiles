@@ -1,6 +1,13 @@
 # manjaro-sway-dotfiles
 ![Screenshot](screenshots/image1.jpeg)
 ![Screenshot](screenshots/image2.jpeg)
+
+- **Editor:** [Vim](https://github.com/vim/vim)
+- **GTK Theme:** [Orchis-Teal-Dark](https://github.com/vinceliuice/Orchis-theme)
+- **Cursor:** [Catppuccin-Macchiato-Dark](https://github.com/catppuccin/cursors)
+- **Music Visualizer:** [CAVA](https://www.linuxfordevices.com/tutorials/linux/cavalier)
+- **Music Player:** [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/)
+
 ## Border and stuff
 > **Directory:**: ~/.config/sway/config.d 
 ## lf
